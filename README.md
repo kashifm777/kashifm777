@@ -1,9 +1,7 @@
-### Hi there 👋
+# Muhammad Kashif
+## ML Engineer
 
-
-This is the ✨ **First Look** ✨ of my **GitHub** profile.
-
-- 🔭 I’m currently working as a **Junior Data Science** at CovolvAI (a self-driving car startup)...
-- 🌱  **Tech Writer** at Upwork...
+- 🔭 I’m currently working as a **Data Science** at **CovolvAI** ...
+- 🌱 Freelance Tech Writer ...
 - ⚡ Athelte
 - 🇵🇰 
