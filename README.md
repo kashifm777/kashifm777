@@ -4,7 +4,7 @@
 
 :white_check_mark: https://www.upwork.com/workwith/muhammadkashif777
 
-:e-mail: muhammad.kashif@covolv.ai
+:e-mail: muhammadkashif841@gmail.com
 
 :open_file_folder: https://kashifm777.github.io
 
