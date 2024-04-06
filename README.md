@@ -1,4 +1,4 @@
-<!-- Greetings -->
+.<!-- Greetings -->
 
 <h1 align="center"> Hi👋, I am Kashif!</h1>
 <h2 align="center" style="color: blue">AI Engineer | Machine Learning | Generative AI</h2>
@@ -13,7 +13,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=8000&lines=Fullstack+AI++Engineer;I+am++into+Artificial+Intelligence;Machine+Learning;Generative+AI;Natural+Language+Processing;I+Computer+Vision!!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=8000&lines=Fullstack+AI++Engineer;I+am++into+AI;Machine+Learning;Generative+AI;Natural+Language+Processing;Computer+Vision!!&center=true&width=380&height=45">
 </p>
 
 
@@ -23,7 +23,7 @@
 - 🎓 **Driven** to achieve excellence in **Artificial Intelligence**
 - 🗣️ I’m looking to collaborate with **Open-Source Projects and freelance work.**
 - 📫 Reach out to me @**muhammadkashif841@gmail.com**.
-- ⚡ Goal for 2024 ->> To Become a *Fullstack AI Engineer*
+- ⚡ **Goal for 2024** ->> To Become a ***Fullstack AI Engineer***
 - 😎 **Fun fact:** I love to **lift weights** and play **Cricket**.
 
 
@@ -35,13 +35,13 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kashifm777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-
-<center><img align='center' src="assets/dev.webp" width="80"> <br>
-    🎯  I’m looking to collaborate on AI Projects...</center>
+<p align="center">
+<img src="assets/dev.webp" width="80" /> <br>
+    🎯  I’m looking to collaborate on AI Projects...</p>
 
 
 <!-- Purple line divider -->
-![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+![purple-divider](assets/purple_divider.png)
 
 
 <!-- Acievements -->
