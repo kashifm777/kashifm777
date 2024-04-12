@@ -13,7 +13,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=8000&lines=Fullstack+AI++Engineer;I+am++into+AI;Machine+Learning;Generative+AI;Natural+Language+Processing;Computer+Vision!!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=Fullstack+AI++Engineer;I+am++into+AI;Machine+Learning;Generative+AI;Natural+Language+Processing;Computer+Vision!!&center=true&width=380&height=45">
 </p>
 
 
@@ -27,19 +27,48 @@
 - 😎 **Fun fact:** I love to **lift weights** and play **Cricket**.
 
 
-<!-- Social badges section -->
- <p align="center">
-  <a href="https://github.com/kashifm777"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kashifm777&label=Profile%20Views&color=red&style=for-the-badge"/></a>
+<!-- header & Socials -->
+
+<div id="header" align="center">
+  <img src="assets/dev.webp" width="180"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/kashifm777/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <!-- Add kaggle, facebook, instgram as well -->
+    <!-- <a href="#">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a> -->
+    <!-- <a href="#">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a> -->
+    <a href="https://www.kaggle.com/muhammadkashif841">
+      <img src="https://img.shields.io/badge/Kaggle-green?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    </a>
+    <a href="https://kashifm777.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://twitter.com/m_kashif_ai">
+      <img src="https://img.shields.io/badge/Twitter-Aqua?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+
+
+  <a href="https://github.com/kashifm777"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kashifm777&label=Profile%20Views&color=red&style=for-the-badge"/></a>
   <a href="https://github.com/kashifm777?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kashifm777"/></a>
   <a href="https://github.com/kashifm777?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kashifm777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
 
-<p align="center">
-<img src="assets/dev.webp" width="80" /> <br>
-    🎯  I’m looking to collaborate on AI Projects...</p>
+  <p>
+     I’m looking to collaborate on AI Projects...
+    <img src="assets/dev.webp" width="30px"/>
+  </p>
+</div>
+<div align="center">
+  <img src="assets/dev_2.gif" width="600" height="300"/>
+</div>
 
-
+---
 <!-- Purple line divider -->
 ![purple-divider](assets/purple_divider.png)
 
@@ -64,22 +93,3 @@
 ![NumPy](https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg)
 ![VSCode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
 ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg)
-
-
-<!-- My Stats -->
-## 📈 My Stats
-
-<!-- visitor badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kashifm777.kashifm777" alt="visitors">
-
-
-<!-- Social Handles -->
-## Social Handles
-
-- [Portfolio](https://kashifm777.github.io)
-
-- [LinkedIn](https://www.linkedin.com/in/kashifm777/)
-
-- [Upwork](https://www.upwork.com/workwith/muhammadkashif777)
-
-- [Email](muhammadkashif841@gmail.com)
