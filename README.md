@@ -22,7 +22,9 @@
 <!-- - 🌱 I'm a **Data Scientist** at [Covolv.AI](https://covolv.ai). -->
 - 🎓 **Driven** to achieve excellence in **Artificial Intelligence**
 - 🗣️ I’m looking to collaborate with **Open-Source Projects and freelance work.**
-- 📫 Reach out to me @**muhammadkashif841@gmail.com**.
+- 📫 Reach out to me 
+  - Professional email: @**kashif.ai.dev@gmail.com**
+  - Personal email: **muhammadkashif841@gmail.com**
 - ⚡ **Goal for 2024** ->> To Become a ***Fullstack AI Engineer***
 - 😎 **Fun fact:** I love to **lift weights** and play **Cricket**.
 
@@ -49,7 +51,7 @@
       <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://twitter.com/m_kashif_ai">
-      <img src="https://img.shields.io/badge/Twitter-Aqua?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-aqua?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
 
@@ -75,7 +77,6 @@
 
 <!-- Acievements -->
 ## 🏆 Achievements
-* Co-developed deep learning algorithms using **TensorFlow, Keras, and OpenCV** for perception, mapping, and localization in **Autonomous Driving**, contributing to state-of-the-art point cloud processing and navigation.
 * **Led the scaling and UI/UX** overhaul of the **Hayat app (Pakistan & Afghanistan)**, resulting in a **3x performance boost and resolving critical crashes and bugs**, empowering frontline workers to improve MNCH service delivery.
 * Customized open-source and paid LLM models (**OpenAI, Google Gemini Pro**, etc.) to meet project requirements, achieving a **20% improvement** in performance goals.
 * Developed **scalable AI solutions using LangChain and LlamaIndex** frameworks. These solutions include:
