@@ -1,10 +1,10 @@
 .<!-- Greetings -->
 
-<h1 align="center"> Hi👋, I am Kashif!</h1>
-<h2 align="center" style="color: blue">AI Engineer | Machine Learning | Generative AI</h2>
+<h1 align="center"> Hi👋, Kashif here!</h1>
+<h2 align="center" style="color: blue">AI Systems Engineer | Backend</h2>
 
 <!-- profile statement -->
-<p align="center"><i>👀 This is Muhammad Kashif, an <b>AI Engineer</b>, Equipped with a <b>Master of Science in Artificial Intelligence</b> from <a href="https://www.neduet.edu.pk/">NED University</a> Karachi, PK and a <b>Bachelor of Science in Computer Science</b> from <a href="https://smiu.edu.pk/">SMI Uiversity</a> Karachi, PK, I bring four years of extensive industry experience to the table. I'm passionate about leveraging my expertise to empower organizations and drive them towards achieving AI-powered success.</i></p>
+<p align="center"><i>👀 Muhammad Kashif, an <b>AI Engineer</b>, Equipped with a <b>Master of Science in Artificial Intelligence</b> from <a href="https://www.neduet.edu.pk/">NED University</a> Karachi, PK and a <b>Bachelor of Science in Computer Science</b> from <a href="https://smiu.edu.pk/">SMI Uiversity</a> Karachi, PK, I bring four years of extensive industry experience to the table. I'm passionate about leveraging my expertise to empower organizations and drive them towards achieving AI-powered success.</i></p>
 
 
 <!-- Cover Picture -->
@@ -19,14 +19,14 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🌱 I'm a **Data Scientist** at [Covolv.AI](https://covolv.ai). -->
-- 🎓 **Driven** to achieve excellence in **Artificial Intelligence**
+<!-- - 🌱 I'm a **Backend Engineer** at [MARKCODERS]([https://covolv.ai](https://www.markcoders.com)). -->
+- 🎓 **Driven** to achieve excellence in Computer Systems particularly, **AI**
 - 🗣️ I’m looking to collaborate with **Open-Source Projects and freelance work.**
 - 📫 Reach out to me 
-  - Professional email: @**kashif.ai.dev@gmail.com**
+  - Professional email: **kashif.ai.dev@gmail.com** |  **muhammad.kashif@markcoders.com**
   - Personal email: **muhammadkashif841@gmail.com**
-- ⚡ **Goal for 2024** ->> To Become a ***Fullstack AI Engineer***
-- 😎 **Fun fact:** I love to **lift weights** and play **Cricket**.
+- ⚡ **Goal** ->> ***Staff AI Engineer***
+- 😎 **Fun fact:** I love to **lift weights** 💪, go on a long **Run** 🏃‍♂
 
 
 <!-- header & Socials -->
