@@ -1,10 +1,10 @@
 .<!-- Greetings -->
 
 <h1 align="center"> Hi👋, Kashif here!</h1>
-<h2 align="center" style="color: blue">AI Systems Engineer | Backend</h2>
+<h2 align="center" style="color: blue">Systems Engineer | Backend</h2>
 
 <!-- profile statement -->
-<p align="center"><i>👀 Muhammad Kashif, an <b>AI Engineer</b>, Equipped with a <b>Master of Science in Artificial Intelligence</b> from <a href="https://www.neduet.edu.pk/">NED University</a> Karachi, PK and a <b>Bachelor of Science in Computer Science</b> from <a href="https://smiu.edu.pk/">SMI Uiversity</a> Karachi, PK, I bring four years of extensive industry experience to the table. I'm passionate about leveraging my expertise to empower organizations and drive them towards achieving AI-powered success.</i></p>
+<p align="center"><i>👀 Muhammad Kashif, an <b>Software Engineer</b>, Equipped with a <b>Master of Science in Artificial Intelligence</b> from <a href="https://www.neduet.edu.pk/">NED University</a> Karachi, PK and a <b>Bachelor of Science in Computer Science</b> from <a href="https://smiu.edu.pk/">SMI Uiversity</a> Karachi, PK, I bring four years of extensive industry experience to the table. I'm passionate about leveraging my expertise to empower organizations and drive them towards achieving AI-powered success.</i></p>
 
 
 <!-- Cover Picture -->
